@@ -10,7 +10,9 @@ use strict;
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
-    'NAME'	=> 'Sort::Naturally',
+    'AUTHOR'    => 'Sean M. Burke <sburke@cpan.org>',
+    'ABSTRACT'  => 'sort lexically, but sort numeral parts numerically',
+    'NAME'	    => 'Sort::Naturally',
     'VERSION_FROM' => 'lib/Sort/Naturally.pm', # finds $VERSION
     'dist'        => { COMPRESS => 'gzip -6f', SUFFIX => 'gz', },
 );
