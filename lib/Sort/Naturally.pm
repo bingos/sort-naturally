@@ -1,7 +1,7 @@
 
 require 5;
 package Sort::Naturally;  # Time-stamp: "2004-12-29 18:30:03 AST"
-$VERSION = '1.02';
+$VERSION = '1.03';
 @EXPORT = ('nsort', 'ncmp');
 require Exporter;
 @ISA = ('Exporter');

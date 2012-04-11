@@ -1,5 +1,8 @@
 Revision history for Perl module Sort::Naturally
-                                        Time-stamp: "2004-12-29 18:30:21 AST"
+
+2012-04-11  bingos         bingos@cpan.org
+
+  * release 1.03 -- modernise the distribution
 
 2004-12-29  Sean M. Burke  sburke@cpan.org
 
