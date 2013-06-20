@@ -1,4 +1,3 @@
-
 require 5;
 package Sort::Naturally;  # Time-stamp: "2004-12-29 18:30:03 AST"
 $VERSION = '1.03';
@@ -325,7 +324,7 @@ before "foobar".
 
 The start of a string is exceptional: leading non-\W (non-word,
 non-digit)
-components are are ignored, and numbers come I<before> letters.
+components are ignored, and numbers come I<before> letters.
 
 =item *
 
