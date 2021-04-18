@@ -10,6 +10,8 @@ NAME
      numerically
 
 SYNOPSIS
+       use Sort::Naturally;
+       
        @them = nsort(qw(
         foo12a foo12z foo13a foo 14 9x foo12 fooa foolio Foolio Foo12a
        ));
